@@ -1,14 +1,14 @@
 # Shreder
 
 <p>
-    <a href="https://entysec.netlify.app">
-        <img src="https://img.shields.io/badge/developer-EntySec-3572a5.svg">
+    <a href="https://trhacknon.netlify.app">
+        <img src="https://img.shields.io/badge/développer-trhacknon-3572a5.svg">
     </a>
-    <a href="https://github.com/EntySec/Shreder">
+    <a href="https://github.com/trhacknon/Shreder">
         <img src="https://img.shields.io/badge/language-Python-3572a5.svg">
     </a>
-    <a href="https://github.com/EntySec/Shreder/stargazers">
-        <img src="https://img.shields.io/github/stars/EntySec/Shreder?color=yellow">
+    <a href="https://github.com/trhacknon/Shreder/stargazers">
+        <img src="https://img.shields.io/github/stars/trhacknon/Shreder?color=yellow">
     </a>
 </p>
 
@@ -23,7 +23,7 @@ Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
 ## Installation
 
 ```shell
-pip3 install git+https://github.com/EntySec/Shreder
+pip3 install git+https://github.com/trhacknon/Shreder
 ```
 
 ## Basic usage
