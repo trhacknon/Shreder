@@ -30,9 +30,9 @@ setup(name='shreder',
           'Shreder is a powerful multi-threaded SSH protocol'
           ' password brute-force tool.'
       ),
-      url='http://github.com/EntySec/Shreder',
-      author='EntySec',
-      author_email='entysec@gmail.com',
+      url='http://github.com/trhacknon/Shreder',
+      author='trhacknon',
+      author_email='trhacknon@gmail.com',
       license='MIT',
       python_requires='>=3.7.0',
       packages=find_packages(),
